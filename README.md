@@ -1,5 +1,4 @@
-# resume-drive-manager
-Automated tool to download resumes from Gmail and organize them in Google Drive. Perfect for recruiters and hiring managers to streamline their resume management process.
+
 # Resume Downloader and Drive Uploader
 
 A Python script that automatically downloads resumes from Gmail and uploads them to Google Drive. This tool is particularly useful for recruiters and hiring managers who need to organize resumes from job applications.
